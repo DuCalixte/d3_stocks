@@ -1,0 +1,9 @@
+{
+  "name": "d3_stocks",
+  "version": "1.0.0",
+  "description": "Stock data using D3, Reack, HapiJS",
+  "main": "src/index.js",
+  "repository": "https://github.com/DuCalixte/d3_stocks",
+  "author": "Stanley Calixte",
+  "license": "MIT"
+}
